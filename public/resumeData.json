@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Shivansh Jaiswal",
+    "occupation": "Web Developer",
+    "description": "I love making websites",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Shivansh! I am a third year student at University of Victoria. I have a strong full-stack background and practically spend my entire day working on React websites. For the past 2 years, I have been learning technologies such as Prisma, Graph QL, NextJS, Chakra UI, Tailwind CSS and many others.",
+    "contactmessage": "Get in touch with me at shivanshjaiswal898@gmail.com",
+    "email": "shivanshjaiswal898@gmail.com",
+    "phone": "+1 236-882-3202",
+    "address": {
+      "street": "4771 Timber Place,",
+      "city": "Victoria",
+      "state": "British Columbia",
+      "zip": "V8Y 2L6"
+    },
+    "website": "https://udbhavagarwal.netlify.app",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1kVChDprx5hKlz-m6KzacJL_i36707507",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shivansh-jaiswal-a628371b3/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ShivanshJais",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming skills",
+    "education": [
+      {
+        "school": "University of Victoria",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "May 2024"
+      }
+    ],
+    "work": [
+      {
+        "company": "Starbucks",
+        "title": "Shift Supervisor",
+        "years": "Oct 2021 - Apr 2022",
+        "description": "I led a dedicated team of baristas, ensuring exceptional customer service and operational excellence. I oversaw shift operations, mentored and developed my team, maintained high standards of quality and cleanliness, and created memorable experiences for our valued customers."
+      },
+      {
+        "company": "Niftory Inc.",
+        "title": "Software Developer Co-op",
+        "years": "May 2022 - Dec 2022",
+        "description": "Architect and lead developer of Niftory's gifting mechanism(Airdrops), allowing users to deposit Non-Fungible Tokens (NFTs) directly into their blockchain wallets according to branding/client requirements."
+      }
+    ],
+    "skills": [
+      {
+        "name": "TypeScript/JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "75%"
+      },
+      {
+        "name": "Chakra UI",
+        "level": "95%"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "70%"
+      },
+      {
+        "name": "Prisma ORM",
+        "level": "90%"
+      },
+      {
+        "name": "NextJS",
+        "level": "75%"
+      },
+      {
+        "name": "Data Structures",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Web Messaging App",
+        "category": "",
+        "image": "messaging.png",
+        "url": "https://github.com/ShivanshJais/MessengerApp"
+      },
+      {
+        "title": "Portfolio Website",
+        "image": "resume-website.png",
+        "url": "https://udbhavagarwal.com"
+      }
+    ]
+  }
+}
